@@ -1,4 +1,8 @@
 
+"""
+map() returns iterator, which need to be iterated
+"""
+
 # map(func, *iterable)
 
 def upper(str):
